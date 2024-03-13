@@ -43,3 +43,5 @@ public class SuggestionEngineTest {
         assertTrue(suggestionEngine.getWordSuggestionDB().size() > 0);
     }
 }
+
+//test comment
